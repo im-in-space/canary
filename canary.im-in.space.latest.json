@@ -12,20 +12,20 @@
             }
         ],
         "panickey": "QKfwgHfijYlwBFKfcNeqtHe3XkYqPnPqs0QReXotgJM=",
-        "release": "2023-09-28T20:03:39+02:00",
-        "expiry": "2023-10-28T20:03:39+02:00",
-        "freshness": "0000000000000000000110d2c22507d59d42b5bd542ba75a1942af71508944b7",
+        "release": "2023-10-26T21:04:15+02:00",
+        "expiry": "2023-11-25T20:04:15+01:00",
+        "freshness": "000000000000000000003aadd601b2e7394f1b7c97d0c8779260c1388d656852",
         "codes": [
-            "subp",
-            "duress",
-            "raid",
-            "seize",
-            "xcred",
-            "war",
-            "gag",
             "trap",
             "cease",
-            "xopers"
+            "duress",
+            "xcred",
+            "xopers",
+            "war",
+            "gag",
+            "subp",
+            "raid",
+            "seize"
         ],
         "mirrors": null
     },
@@ -36,10 +36,10 @@
             "pubkeys": "LSw35ih4jjA5HhPZV4B8kVuZ+lOhjebCGRHDEl7phmB/wGWU+iGAC3J98JfX84Szur6Xw64pqPFQiRt3NodsDg==",
             "panickey": "e29G5s5lNwacZMuC3AKeT5X5vD0FoXy5ufXlWD1a+baRqEP04IKsN8Ay7U677nPX9dx+sRIuuqkjGqdIEl1cDQ==",
             "version": "S4yXQfSoXMZPEFQazcE8vMCd7+ShADrAa9lMcpcV6k5Ms56zRrewnEZYdLDIvkQ1Y8RN3LLwBvekDgLCeto1CQ==",
-            "release": "f/+iTPG/cX8SVVd8UzZ29KrYeDh24p+tTCaZUM9G9EewsZ8w2WXydrJnTlUs2WO1MZsjMj0vfUWAckrynNfSAw==",
-            "expiry": "ClkDT/BVtQc15QncV76VjEbLbn2wqaCNQY4yVW7iuosluUscFuc7jil3LRk7363nOMLoq7f7t+xFqa6wYwODDQ==",
-            "freshness": "zorxlLeVgyrlYCVVYwGTkEG0+P1AoLnrIUGwqtHaYRTitCUSijBvsWdxoQSx6Sa/haP+xAtwblLmoJbvAbO8DA==",
-            "codes": "O0/WQ8EQSBXPI0oGwsg7TWSL+sv++uz5CPwfPkGaTwdUYVlG/cFOEqDLM9/9S6BmQFCAS21uDPG23dJWwuZ+DA==",
+            "release": "b6eS7Eagqph55/yj99fkDSOl5WREAbCohw//NIUuhUuo9a+osCX5YLMkMJDw/55lVr+xb2o8JyFUJpT0Q27NDg==",
+            "expiry": "UMiyzmktSO753BRJoEgjH5ErstGjRGmbq3TFMba5vDiR2F/qTR9rPAVKex9j5G4xE4m0wOboFOTWHeeWgZ6uCQ==",
+            "freshness": "bR8HDa6/kBXxWByrf7A/AKHZ4AYdQjkjEsAtsnPeivL0kgz5fhMDMfoUA6v799lN9BmGV4mdJ2gKHXxUcTrjDw==",
+            "codes": "tpyEUH41d6AT3OHAMkWwIIZlXJxYOVxhY+srFYm9UycU85MecVaZf4Op8JQsNxro+iMISAImWeicXvyN8GYWAg==",
             "mirrors": "qAoJCJ8lZM/fu0ABLSlEPqYXAkBfN1qWTzMx8v4qbW9m6daIdoiM4Z8QQbjmGx7chewgPPoj7zc6dd52vB18Aw=="
         }
     }
