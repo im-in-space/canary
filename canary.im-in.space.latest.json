@@ -12,20 +12,20 @@
             }
         ],
         "panickey": "QKfwgHfijYlwBFKfcNeqtHe3XkYqPnPqs0QReXotgJM=",
-        "release": "2023-11-29T09:03:26+01:00",
-        "expiry": "2023-12-29T09:03:26+01:00",
-        "freshness": "00000000000000000001db5f69868854c63ac1dbdaa95e6d0da18ce5c670b3ca",
+        "release": "2024-01-04T09:05:41+01:00",
+        "expiry": "2024-02-03T09:05:41+01:00",
+        "freshness": "00000000000000000002cfcc39cc1d4ea87329300b23e8e2ce0e1ca6a473b3cd",
         "codes": [
-            "subp",
-            "cease",
-            "duress",
-            "raid",
-            "xcred",
             "xopers",
             "war",
             "gag",
+            "subp",
+            "xcred",
+            "seize",
             "trap",
-            "seize"
+            "cease",
+            "duress",
+            "raid"
         ],
         "mirrors": null
     },
@@ -36,10 +36,10 @@
             "pubkeys": "LSw35ih4jjA5HhPZV4B8kVuZ+lOhjebCGRHDEl7phmB/wGWU+iGAC3J98JfX84Szur6Xw64pqPFQiRt3NodsDg==",
             "panickey": "e29G5s5lNwacZMuC3AKeT5X5vD0FoXy5ufXlWD1a+baRqEP04IKsN8Ay7U677nPX9dx+sRIuuqkjGqdIEl1cDQ==",
             "version": "S4yXQfSoXMZPEFQazcE8vMCd7+ShADrAa9lMcpcV6k5Ms56zRrewnEZYdLDIvkQ1Y8RN3LLwBvekDgLCeto1CQ==",
-            "release": "XxuVRPx6FfISD2Bphfy5//ZhjRkavo6R6X7lYc3bCoAMn0EiH+EN7HV0/0fAUsqRgGRnKjzSwbXR0PCpqhzDAg==",
-            "expiry": "U1GJ78fggPuujXkZY/fovfmimxUFoOItsXK6Hl5VyfHAeNJW+hOLKoKT2aZV2EPM9Pc0mVVdfanPR0nGbguNBA==",
-            "freshness": "SSL8o+v0PEGowPEvpp8V19yqD8QJUAkarE3fE9eGBzhF3lgnDqreLbM3XXdRRjEeUZf58M3THlz3WkFMx0+sDQ==",
-            "codes": "dmX+MLo84p0uymQ5LyiI1QB4oba8aVf6vz4bAc2vcZT3CWu7YN/wxYKeFJ9PkcXBSaQl93r9lv8KuUSQdibgCQ==",
+            "release": "EzOIpir6A/W0pT9WAVbtYPPTXfpzCtZhXDnEYrQlsQII7ezNCtmIdvNnEXusr/lsxuRi52JF46somv5boyx2Cg==",
+            "expiry": "g0s1XBMFIBfth2hX9ek5H36E7mwQhaNPpga4PwWVF3rReJR/ZpiovkMI/BUhiBJVCtg4VI8eiT9DTStZPQd+Bw==",
+            "freshness": "kyutYsZ3xkZuQcqJCN8WBXcAIWqgKdlXs8KOXTZKBEKGahY8/02eEWv//qjETI+g7BM3DQDslJ3YfD6qInwZAg==",
+            "codes": "5k3nLyaXHXqQVrqau/vEOMX2u/LVEV3EqJhXJirfd1zfgmYefujTsAYJmMq5q0M+NhccovnagKLlWFCrobT5Dw==",
             "mirrors": "qAoJCJ8lZM/fu0ABLSlEPqYXAkBfN1qWTzMx8v4qbW9m6daIdoiM4Z8QQbjmGx7chewgPPoj7zc6dd52vB18Aw=="
         }
     }
