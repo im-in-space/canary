@@ -12,20 +12,20 @@
             }
         ],
         "panickey": "QKfwgHfijYlwBFKfcNeqtHe3XkYqPnPqs0QReXotgJM=",
-        "release": "2025-05-26T08:34:37+02:00",
-        "expiry": "2025-06-25T08:34:37+02:00",
-        "freshness": "00000000000000000000b482d5725df684e0945c3d75c439c2891a1903e60712",
+        "release": "2025-06-23T09:01:28+02:00",
+        "expiry": "2025-07-23T09:01:28+02:00",
+        "freshness": "000000000000000000019f0067949dce960f0918221fd2a5f6552f8216d1d5ad",
         "codes": [
-            "gag",
+            "war",
             "trap",
-            "raid",
             "seize",
             "xcred",
-            "war",
+            "xopers",
+            "gag",
             "subp",
             "cease",
             "duress",
-            "xopers"
+            "raid"
         ],
         "mirrors": null
     },
@@ -36,10 +36,10 @@
             "pubkeys": "LSw35ih4jjA5HhPZV4B8kVuZ+lOhjebCGRHDEl7phmB/wGWU+iGAC3J98JfX84Szur6Xw64pqPFQiRt3NodsDg==",
             "panickey": "e29G5s5lNwacZMuC3AKeT5X5vD0FoXy5ufXlWD1a+baRqEP04IKsN8Ay7U677nPX9dx+sRIuuqkjGqdIEl1cDQ==",
             "version": "S4yXQfSoXMZPEFQazcE8vMCd7+ShADrAa9lMcpcV6k5Ms56zRrewnEZYdLDIvkQ1Y8RN3LLwBvekDgLCeto1CQ==",
-            "release": "jAfxSCoPi98DmRGqiaqsNUZ8/ORetPBxSwAzMwnnSrZdWRUxn4l4szoTLvlijy5y4/E92o3E/UKGBehyckIUDA==",
-            "expiry": "gjzldGK6nEnlZd2kbXItCJOdZ/Gc7/UhvgPFvcpiBQES/pMwenDveX2mjqPn//M4VjWUxJljm9OBCPz3nkvxCw==",
-            "freshness": "GxMW2Per2xN4ypzQDF/y6NHamqNw3ReEdZLKltbDV0vAC0M5Ni/E08JP47U6gVmAmRl771sjiVrtKFjGjwJFAw==",
-            "codes": "e5mvavWgidyDiLKHA22H/Pq6CukA44r45mVR0WVBucYG6wHWg8LDcD5iLAftZr3mh0Oh5q+1ar6dc7oOuOiwDA==",
+            "release": "uVKXkAI9OjG//j3Ks1pzUigXF/9uav+KOwobJ7Tmx0eo84UhVgkdZNF2PtLiGGrLcOp3Zq/2PZwI5Y9RQWy6Cw==",
+            "expiry": "pg2QIB5vthBSfORW5Yt0s6RvHzkXXDYoaZ2eb0NHWuu6M3ydxficyEQl3BlAyf2uWjFoiESnFKNXaJYUFQxXCA==",
+            "freshness": "KaUSNEBQCmjtBqfMLE8t6Q/oZtZ26JCdsVkjKQ6T2V8dVYK0lEMrd9o4itduBe3NSt71mUi89N///cWZuZ+yDQ==",
+            "codes": "2wJdzZU4Hvsj5HRdg4WlATG/Aq4ULuoWbUSY08AWoyB//WsAWUN10s3p20n22ObKEuPqxCi0REslkpq+GUqACg==",
             "mirrors": "qAoJCJ8lZM/fu0ABLSlEPqYXAkBfN1qWTzMx8v4qbW9m6daIdoiM4Z8QQbjmGx7chewgPPoj7zc6dd52vB18Aw=="
         }
     }
